@@ -140,10 +140,10 @@ a:focus {
     color: #fff;
     background: url(/img/OL_tigri.png) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
 }
 
 .intro .intro-body {
