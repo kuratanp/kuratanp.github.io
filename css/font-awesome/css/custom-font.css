@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'tig';
-  src:  url('fonts_custom/tig.eot?odko9j');
-  src:  url('fonts_custom/tig.eot?odko9j#iefix') format('embedded-opentype'),
-    url('fonts_custom/tig.ttf?odko9j') format('truetype'),
-    url('fonts_custom/tig.woff?odko9j') format('woff'),
-    url('fonts_custom/tig.svg?odko9j#tig') format('svg');
+  font-family: 'TIG-kurata';
+  src:  url('fonts/TIG-kurata.eot?w695tg');
+  src:  url('fonts/TIG-kurata.eot?w695tg#iefix') format('embedded-opentype'),
+    url('fonts/TIG-kurata.ttf?w695tg') format('truetype'),
+    url('fonts/TIG-kurata.woff?w695tg') format('woff'),
+    url('fonts/TIG-kurata.svg?w695tg#TIG-kurata') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="npk-"], [class*=" npk-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'tig' !important;
+  font-family: 'TIG-kurata' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
