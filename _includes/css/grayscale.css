@@ -381,6 +381,7 @@ body {
     justify-content: space-around;
     position: absolute;
     bottom: -250px;
+
 }
 
 @keyframes bubble{
@@ -414,6 +415,7 @@ body {
 }
 .bubbles img:nth-child(4){
     animation-delay: 1s;
+    width: 10px;
 }
 .bubbles img:nth-child(5){
     animation-delay: 4.5s;
@@ -424,6 +426,7 @@ body {
 }
 .bubbles img:nth-child(7){
     animation-delay: 6s;
+    width: 5px;
 }
 .bubbles img:nth-child(8){
     animation-delay: 7s;
@@ -434,12 +437,13 @@ body {
 }
 .bubbles img:nth-child(10){
     animation-delay: 6.5s;
-    width: 10px;
+    width: 8px;
 }
 .bubbles img:nth-child(11){
     animation-delay: 8s;
+    width: 12px;
 }
 .bubbles img:nth-child(12){
-    animation-delay: 0.5s;
-    width: 20px;
+    animation-delay: 2s;
+    width: 8px;
 }
