@@ -430,16 +430,16 @@ body {
     width: 20px;
 }
 .bubbles img:nth-child(9){
-    animation-delay: 4.5s;
+    animation-delay: 5.5s;
 }
 .bubbles img:nth-child(10){
-    animation-delay: 3.5s;
+    animation-delay: 6.5s;
     width: 10px;
 }
 .bubbles img:nth-child(11){
-    animation-delay: 6s;
+    animation-delay: 8s;
 }
 .bubbles img:nth-child(12){
-    animation-delay: 7s;
+    animation-delay: 0.5s;
     width: 20px;
 }
